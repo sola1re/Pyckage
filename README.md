@@ -32,7 +32,11 @@
 ## ⚙️ Usage
 With git installed, run :
 ```bash
-git pull 
+curl -O https://raw.githubusercontent.com/sola1re/Pyckage/main/pyckage.sh
+```
+Edit permissions to execute the script :
+```bash
+chmod +x pyckage.sh
 ```
 
 ```bash
