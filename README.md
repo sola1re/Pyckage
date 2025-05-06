@@ -39,6 +39,7 @@ Edit permissions to execute the script :
 chmod +x pyckage.sh
 ```
 
+Launch the script :
 ```bash
 ./pyckage.sh [options]
 ```
